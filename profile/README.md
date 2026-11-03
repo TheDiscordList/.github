@@ -8,7 +8,7 @@ the webhooks TheDiscordList sends you.
 | Library | Package | Repository |
 | --- | --- | --- |
 | discord.js | [`@thediscordlist/discord.js`](https://www.npmjs.com/package/@thediscordlist/discord.js) | [integration-discordjs](https://github.com/TheDiscordList/integration-discordjs) |
-| discord.py | [`thediscordlist`](https://github.com/TheDiscordList/integration-discordpy) (PyPI release pending) | [integration-discordpy](https://github.com/TheDiscordList/integration-discordpy) |
+| discord.py | [`thediscordlist`](https://pypi.org/project/thediscordlist/) | [integration-discordpy](https://github.com/TheDiscordList/integration-discordpy) |
 | JDA | [`com.thediscordlist:integration-jda`](https://central.sonatype.com/artifact/com.thediscordlist/integration-jda) | [integration-jda](https://github.com/TheDiscordList/integration-jda) |
 | Discord4J | [`com.thediscordlist:integration-discord4j`](https://central.sonatype.com/artifact/com.thediscordlist/integration-discord4j) | [integration-discord4j](https://github.com/TheDiscordList/integration-discord4j) |
 | Kord | [`com.thediscordlist:integration-kord`](https://central.sonatype.com/artifact/com.thediscordlist/integration-kord) | [integration-kord](https://github.com/TheDiscordList/integration-kord) |
